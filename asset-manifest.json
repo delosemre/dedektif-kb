@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://delosemre.github.io/csb-r9lmu/static/css/main.d8facc32.chunk.css",
-    "main.js": "https://delosemre.github.io/csb-r9lmu/static/js/main.347263bb.chunk.js",
-    "main.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/main.347263bb.chunk.js.map",
-    "runtime-main.js": "https://delosemre.github.io/csb-r9lmu/static/js/runtime-main.942e60bc.js",
-    "runtime-main.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/runtime-main.942e60bc.js.map",
-    "static/js/2.02acccd0.chunk.js": "https://delosemre.github.io/csb-r9lmu/static/js/2.02acccd0.chunk.js",
-    "static/js/2.02acccd0.chunk.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/2.02acccd0.chunk.js.map",
-    "index.html": "https://delosemre.github.io/csb-r9lmu/index.html",
-    "static/css/main.d8facc32.chunk.css.map": "https://delosemre.github.io/csb-r9lmu/static/css/main.d8facc32.chunk.css.map",
-    "static/js/2.02acccd0.chunk.js.LICENSE.txt": "https://delosemre.github.io/csb-r9lmu/static/js/2.02acccd0.chunk.js.LICENSE.txt"
+    "main.css": "https://delosemre.github.io/dedektif-kb/static/css/main.d8facc32.chunk.css",
+    "main.js": "https://delosemre.github.io/dedektif-kb/static/js/main.347263bb.chunk.js",
+    "main.js.map": "https://delosemre.github.io/dedektif-kb/static/js/main.347263bb.chunk.js.map",
+    "runtime-main.js": "https://delosemre.github.io/dedektif-kb/static/js/runtime-main.942e60bc.js",
+    "runtime-main.js.map": "https://delosemre.github.io/dedektif-kb/static/js/runtime-main.942e60bc.js.map",
+    "static/js/2.02acccd0.chunk.js": "https://delosemre.github.io/dedektif-kb/static/js/2.02acccd0.chunk.js",
+    "static/js/2.02acccd0.chunk.js.map": "https://delosemre.github.io/dedektif-kb/static/js/2.02acccd0.chunk.js.map",
+    "index.html": "https://delosemre.github.io/dedektif-kb/index.html",
+    "static/css/main.d8facc32.chunk.css.map": "https://delosemre.github.io/dedektif-kb/static/css/main.d8facc32.chunk.css.map",
+    "static/js/2.02acccd0.chunk.js.LICENSE.txt": "https://delosemre.github.io/dedektif-kb/static/js/2.02acccd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.942e60bc.js",
