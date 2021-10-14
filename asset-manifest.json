@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://delosemre.github.io/csb-r9lmu/static/css/main.d8facc32.chunk.css",
-    "main.js": "https://delosemre.github.io/csb-r9lmu/static/js/main.9310637f.chunk.js",
-    "main.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/main.9310637f.chunk.js.map",
+    "main.js": "https://delosemre.github.io/csb-r9lmu/static/js/main.347263bb.chunk.js",
+    "main.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/main.347263bb.chunk.js.map",
     "runtime-main.js": "https://delosemre.github.io/csb-r9lmu/static/js/runtime-main.942e60bc.js",
     "runtime-main.js.map": "https://delosemre.github.io/csb-r9lmu/static/js/runtime-main.942e60bc.js.map",
     "static/js/2.02acccd0.chunk.js": "https://delosemre.github.io/csb-r9lmu/static/js/2.02acccd0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.942e60bc.js",
     "static/js/2.02acccd0.chunk.js",
     "static/css/main.d8facc32.chunk.css",
-    "static/js/main.9310637f.chunk.js"
+    "static/js/main.347263bb.chunk.js"
   ]
 }
